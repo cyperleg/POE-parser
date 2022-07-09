@@ -1,0 +1,17 @@
+Item Class: Abyss Jewels
+Rarity: Rare
+Grim Weaver
+Murderous Eye Jewel
+--------
+Abyss
+--------
+Requirements:
+Level: 57
+--------
+Item Level: 83
+--------
++99 to Evasion Rating
+15 to 26 Added Fire Damage with Staff Attacks
+2% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
+--------
+Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.

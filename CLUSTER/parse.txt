@@ -1,0 +1,20 @@
+Item Class: Jewels
+Rarity: Rare
+Bramble Splinter
+Large Cluster Jewel
+--------
+Requirements:
+Level: 54
+--------
+Item Level: 83
+--------
+Adds 11 Passive Skills (enchant)
+2 Added Passive Skills are Jewel Sockets (enchant)
+Added Small Passive Skills grant: Minions deal 10% increased Damage (enchant)
+--------
+Added Small Passive Skills also grant: +5 to Maximum Energy Shield
+Added Small Passive Skills also grant: +6 to Maximum Mana
+--------
+Place into an allocated Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.
+--------
+Note: ~price 50 chaos
